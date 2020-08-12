@@ -1,5 +1,5 @@
-# CE7454_2020
-Deep learning course CE7454, 2020
+# AI6103_2020
+Master of AI, Deep learning course AI6103, 2020
 
 
 <br><br>
@@ -8,12 +8,12 @@ Deep learning course CE7454, 2020
 ### Cloud Machine #1 : Google Colab (Free GPU)
 
 * Follow this Notebook installation :<br>
-https://colab.research.google.com/github/xbresson/CE7454_2020/blob/master/codes/installation/installation.ipynb
+https://colab.research.google.com/github/xbresson/AI6103_2020/blob/master/codes/installation/installation.ipynb
 
 * Open your Google Drive :<br>
 https://www.google.com/drive
 
-* Open in Google Drive Folder 'CE7454_2020' and go to Folder 'CE7454_2020/codes/'<br>
+* Open in Google Drive Folder 'AI6103_2020' and go to Folder 'AI6103_2020/codes/'<br>
 Select the notebook 'file.ipynb' and open it with Google Colab using Control Click + Open With Colaboratory
 
 
@@ -24,7 +24,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
 
 * Simply [click here]
 
-[Click here]: https://mybinder.org/v2/gh/xbresson/CE7454_2019/master
+[Click here]: https://mybinder.org/v2/gh/xbresson/AI6103_2020/master
 
 
 
@@ -45,8 +45,8 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
    #install https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe # Windows
 
    # Clone GitHub repo
-   git clone https://github.com/xbresson/CE7454_2020.git
-   cd CE7454_2020
+   git clone https://github.com/xbresson/AI6103_2020.git
+   cd AI6103_2020
 
    # Install python libraries
    conda env create -f environment.yml
